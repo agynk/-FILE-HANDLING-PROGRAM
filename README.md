@@ -1,16 +1,16 @@
 # -FILE-HANDLING-PROGRAM
 
-COMPANY :CODTECH IT SOLUTION
+*COMPANY* :CODTECH IT SOLUTION
 
-NAME :ANKITA KUMARI
+*NAME* :ANKITA KUMARI
 
-INTERN ID :CT04DN1540
+*INTERN ID* :CT04DN1540
 
-DOMAIN :C LANGUAGE
+*DOMAIN* :C LANGUAGE
 
-DUARTON :4 WEEKS
+*DUARTON* :4 WEEKS
 
-MENTOR :NEELA SANTOSH
+*MENTOR* :NEELA SANTOSH
 
 #DESCRIPTION ABOUT FILE HANDLING :
 File handling tasks involve managing files on a computer's storage, allowing programs to interact with data stored outside of the program's runtime. This includes operations like creating, opening, reading, writing, and closing files, enabling data persistence and access across multiple program executions. Essentially, file handling acts as a bridge between a program and the external world, allowing it to store and retrieve information for later use. 
